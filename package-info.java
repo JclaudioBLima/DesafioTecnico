@@ -1,0 +1,1 @@
+package com.exemplo.springboot.model;
