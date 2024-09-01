@@ -18,4 +18,4 @@ public class FaturamentoPorEstadoService {
                         estadoFaturamento -> (estadoFaturamento.getValor() / valorTotal) * 100
                 ));
     }
-}
+//}
